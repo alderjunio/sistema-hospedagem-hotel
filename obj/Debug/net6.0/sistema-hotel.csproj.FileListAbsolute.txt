@@ -1,0 +1,15 @@
+E:\Projetos\C#\sistema-hotel\bin\Debug\net6.0\sistema-hotel.exe
+E:\Projetos\C#\sistema-hotel\bin\Debug\net6.0\sistema-hotel.deps.json
+E:\Projetos\C#\sistema-hotel\bin\Debug\net6.0\sistema-hotel.runtimeconfig.json
+E:\Projetos\C#\sistema-hotel\bin\Debug\net6.0\sistema-hotel.dll
+E:\Projetos\C#\sistema-hotel\bin\Debug\net6.0\sistema-hotel.pdb
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.csproj.AssemblyReference.cache
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.AssemblyInfoInputs.cache
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.AssemblyInfo.cs
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.dll
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\refint\sistema-hotel.dll
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.pdb
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\sistema-hotel.genruntimeconfig.cache
+E:\Projetos\C#\sistema-hotel\obj\Debug\net6.0\ref\sistema-hotel.dll
